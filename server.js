@@ -27,7 +27,7 @@ ShoppingList.create('beans', 2);
 ShoppingList.create('tomatoes', 3);
 ShoppingList.create('peppers', 4);
 
-Recipes.create('chocolate milk', ['cocoa', 'milk', 'sugar']);
+Recipes.create('chocolate milk', ['wings', 'milk', 'sugar']);
 Recipes.create('roasted beets', ['beets', 'olive oil', 'salt']);
 Recipes.create('sundaes', ['ice cream', 'hot fudge', 'whipped cream']);
 
